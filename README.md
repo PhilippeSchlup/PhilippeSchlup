@@ -40,9 +40,9 @@ I'm a Full-stack Software Engineer with experience designing and delivering scal
 
 ### 🏆 Certifications
 
-* ☁️ **AWS Solutions Architect - Associate** (Amazon Web Services) | *2024 - 2027*
-* 🤖 **AWS AI Practitioner - Foundational** (Amazon Web Services) | *2024 - 2027*
-* ☁️ **AWS Cloud Practitioner - Foundational** (Amazon Web Services) | *2024 - 2027*
+* **AWS Solutions Architect - Associate** (Amazon Web Services) | *2024 - 2027*
+* **AWS AI Practitioner - Foundational** (Amazon Web Services) | *2024 - 2027*
+* **AWS Cloud Practitioner - Foundational** (Amazon Web Services) | *2024 - 2027*
 
 ---
 
