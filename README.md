@@ -1,14 +1,17 @@
 # Hi there, I'm Philippe Schlup 👋
 
-**Full-stack Software Engineer | AI Enthusiast | M.Sc. CS Student**
+**AI Researcher | Full-stack Software Engineer | M.Sc. CS Student**
 
-I'm a Full-stack Software Engineer with experience designing and delivering scalable **Vue.js + .NET** applications. With a strong background in building high-performance web platforms, I am highly passionate about Artificial Intelligence and eager to contribute to innovative, mission-driven projects in dynamic environments.
+I'm an AI Researcher and Full-stack Software Engineer with experience designing and delivering scalable **Vue.js + .NET** applications. I am currently focused on applying **deep learning** to real-world problems, particularly in oceanographic forecasting such as wave height prediction.
+
+I’m passionate about bridging software engineering and artificial intelligence to build impactful, data-driven solutions.
 
 ---
 
 ### 💻 Current Focus
-* 💼 **Working** as a Software Engineer at **Au2mate** (Faro, Portugal).
-* 🎓 **Studying** for my **M.Sc. in Computer Science** (Focusing on AI) at the **University of Algarve**.
+
+* 🔬 **Working** as a **Researcher in Deep Learning** at the **University of Algarve** (Wave Height Prediction).
+* 🎓 **Studying** for my **M.Sc. in Computer Science** (Artificial Intelligence) at the **University of Algarve**.
 
 ---
 
@@ -24,16 +27,23 @@ I'm a Full-stack Software Engineer with experience designing and delivering scal
 
 ### 💼 Experience
 
-**Software Engineer** @ **Au2mate**, *Faro* (2025 - Present)
+**Researcher (Deep Learning – Wave Height Prediction)** @ **University of Algarve**, *Faro* (2026 - Present)
+
+* Developing deep learning models for wave height prediction using real-world oceanographic data.
+* Applying data-driven approaches to improve forecasting accuracy for maritime and environmental applications.
+
+**Software Engineer** @ **Au2mate**, *Faro* (2025 - 2026)
+
 * Full-stack development utilizing **.NET** and **Vue.js**.
-* Creating automation tools, debugging utilities, reporting dashboards, and custom scripting solutions for factory and plant management systems.
+* Built automation tools, debugging utilities, reporting dashboards, and custom scripting solutions for industrial systems.
 
 ---
 
 ### 🎓 Education
 
 * **M.Sc. Computer Science** - *University of Algarve* (2025 - Present)
-    * *Specialization:* Artificial Intelligence
+
+  * *Specialization:* Artificial Intelligence
 * **B.Sc. Computer Science** - *University of Algarve, Faro* (2021 - 2025)
 
 ---
